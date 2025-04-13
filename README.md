@@ -6,11 +6,11 @@
 
 1. Установите MinGW (если не установлен)
 2. Клонируйте репозиторий:
-   /* git clone https://github.com/dima-78/C--.git */
+    /* git clone https://github.com/dima-78/C--.git */
 4. Скомпилируйте:
-   /* g++ -std=c++11 src/main.cpp -o dino.exe */
+    /* g++ -std=c++11 src/main.cpp -o dino.exe */
 5. Запустите в командной строке:
-   /* dino.exe */
+    /* dino.exe */
 # Управление:
 - Пробел или 'w': прыжок
 
